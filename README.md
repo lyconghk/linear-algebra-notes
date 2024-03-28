@@ -5,3 +5,7 @@ Gilbert Strang: Introduction to linear algebra,
 3. 由于平时比较忙，笔记还在整理中；
 4. 里面有错误的请指正，例如在第几页什么地方的笔记有误；
 5. 点个star收藏，后面会抽空持续更新。
+
+使用方法：
+1. 直接下载对应的pdf文件阅读；
+2. 如果有IPAD，可以下载里面的goodnotes file，然后再导入到自己的goodnotes app里面接着在文件里面记自己的笔记。
