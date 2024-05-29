@@ -8,4 +8,4 @@ Gilbert Strang: Introduction to linear algebra,
 
 两种使用方法：
 1. 直接下载上面的pdf文件阅读，不能编辑或者擦掉我的笔记；
-2. 如果有IPAD，可以下载上面的goodnotes file，然后再导入到自己的goodnotes app里面，这样可以编辑里面的编辑，再接着在文件里面写自己的笔记。
+2. 如果有IPAD，可以下载上面的goodnotes file，然后再导入到自己的goodnotes app里面，这样可以编辑里面的笔记，再接着在文件里面写自己的笔记。
