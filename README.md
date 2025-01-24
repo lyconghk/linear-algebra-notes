@@ -1,3 +1,5 @@
+可以关注我的知乎: https://zhuanlan.zhihu.com/p/676466386
+
 # linear-algebra-notes
 Gilbert Strang: Introduction to linear algebra, 
 1. 自己做的笔记和分析;
